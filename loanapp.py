@@ -3,7 +3,7 @@ import streamlit as st
 import pickle
 import pandas as pd
 import numpy as np
-import sklearn   # Needed for loading the pickle model
+import sklearn   
 
 # -------------------------------------------------------
 # Load trained model (.pkl)
